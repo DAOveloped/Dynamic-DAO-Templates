@@ -1,0 +1,30 @@
+## DAOligarchy Example:
+
+### Liability Layer:
+
+- Number of owners: 2-5
+- Percentage of decision-making controlled by the collective: Shared among the members.
+- Liability: All members share liability for the actions and decisions made within the DAO.
+
+### Administration Layer:
+
+- Decentralization Actions (DAs): 70% autonomously completed, 30% manually completed by the collective.
+- Autonomous Actions (AAs): 20% autonomously completed, 80% manually completed by the collective.
+- Administration: The members collectively manage administrative tasks, such as maintaining the DAO's website, handling communication with stakeholders, and overseeing day-to-day operations.
+
+### Governance Layer:
+
+- Number of members: 2-5
+- Average number of decisions made per month: 15
+- Governance: The members collectively participate in governance decisions, including voting on proposals and shaping the strategic direction of the DAO.
+
+### Financial Layer:
+
+- Decentralization Actions (DAs): 50% autonomously completed, 50% manually completed by the collective.
+- Autonomous Actions (AAs): 40% autonomously completed, 60% manually completed by the collective.
+- Profit sharing to members: Distributed among the members based on their contributions and stake in the DAO.
+- Financial: The members collectively manage the financial resources of the DAO, including profit distribution, investment decisions, and funding allocations.
+
+### Security Layer:
+
+- Continuously audited by (to be determined): The DAO's security measures and protocols are audited regularly by an independent security firm or auditing entity to ensure the integrity and robustness of the system.
