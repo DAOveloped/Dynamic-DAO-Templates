@@ -1,0 +1,30 @@
+**DAOmopoly Example:**
+
+**Liability Layer:**
+
+- Number of owners: 1
+- Percentage of decision-making controlled by the solo owner: 100%
+- Liability: The solo owner assumes full liability for the actions and decisions made within the DAO.
+
+**Administration Layer:**
+
+- Decentralization Actions (DAs): 40% autonomously completed, 60% manually completed by the owner.
+- Autonomous Actions (AAs): 0% autonomously completed, 100% manually completed by the owner.
+- Administration: The solo owner manages all administrative tasks, such as maintaining the DAO's website, handling communication with stakeholders, and overseeing day-to-day operations.
+
+**Governance Layer:**
+
+- Number of members: 1 (the solo owner)
+- Average number of decisions made per month: 5
+- Governance: The solo owner makes all governance decisions, including voting on proposals and setting the strategic direction of the DAO.
+
+**Financial Layer:**
+
+- Decentralization Actions (DAs): N/A (No decentralization actions implemented)
+- Autonomous Actions (AAs): N/A (No autonomous actions implemented)
+- Profit sharing to members: 100%
+- Financial: The solo owner manages the financial resources of the DAO, including distributing profits to members and making investment decisions.
+
+**Security Layer:**
+
+- Continuously audited by (to be determined): The DAO's security measures and protocols are audited regularly by an independent security firm or auditing entity to ensure the integrity and robustness of the system.
