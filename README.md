@@ -6,9 +6,11 @@ Welcome to the Dynamic DAO Templates repository! This repository provides a coll
 
 Dynamic DAO Templates are designed to cater to various governance needs, enabling organizations to choose a governance model that aligns with their goals and community dynamics. Each template represents a unique approach to DAO governance, providing a foundation for organizations to build upon and customize according to their specific requirements.
 
-## Dynamic DAO Template Comparison Chart
+## Dynamic DAO Template Comparisons
 
 The following chart provides an overview of the key features and characteristics of the Dynamic DAO templates available in this repository:
+
+### Features and Characteristics
 
 | Template      | Governance Layer Structure | Decision-Making Approach | Membership | Autonomous Actions | Financial Structure | Security Measures |
 | ------------- | ------------------------- | ----------------------- | ---------- | ------------------ | ------------------- | ----------------- |
@@ -23,6 +25,10 @@ The following chart provides an overview of the key features and characteristics
 | DAOfederation | Federated governance      | Collaborative            | Multi-tier | Autonomous & Manual| Distributed         | Continuous audit  |
 | DAOsyndicate  | Syndicate-based           | Collaborative            | Multi-tier | Autonomous & Manual| Distributed         | Regular auditing  |
 | DAOcommunity  | Community-driven          | Voting-based             | 1000 members| Autonomous & Manual| Distributed         | Continuous audit  |
+
+### Governance Layers and Member Details
+
+The second chart delves into the specific details of each template's governance layers. It explores the semantics, member information, and governance layer characteristics in more depth. This chart provides insights into the administration, financial, governance, liability, and security layers of each template, allowing you to understand the intricacies of how these layers function within each template. It also highlights examples and details related to each layer, offering a more nuanced understanding of the governance structure and operations of the Dynamic DAO templates.
 
 
 
