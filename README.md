@@ -6,7 +6,7 @@ Welcome to the Dynamic DAO Templates repository! This repository provides a coll
 
 Dynamic DAO Templates are designed to cater to various governance needs, enabling organizations to choose a governance model that aligns with their goals and community dynamics. Each template represents a unique approach to DAO governance, providing a foundation for organizations to build upon and customize according to their specific requirements.
 
-## Template Comparison Chart
+## Dynamic DAO Template Comparison Chart
 
 The following chart provides an overview of the key features and characteristics of the Dynamic DAO templates available in this repository:
 
