@@ -1,0 +1,44 @@
+## DAOmmittee: Committee-Based Dynamic DAO Example:
+
+### Liability Layer:
+
+- Number of owners: Varies
+- Percentage of decision-making controlled by the collective: Shared among the committees and the Senior DAO layer.
+- Liability: All members share liability for the actions and decisions made within the DAO.
+
+### Administration Layer:
+
+- Decentralization Actions (DAs): Varies based on committee and Senior DAO layer decisions.
+- Autonomous Actions (AAs): Varies based on committee and Senior DAO layer decisions.
+- Administration: The DAO engine layer, consisting of all members, manages day-to-day operations and executes the decisions made by the governance layers.
+
+### Governance Layer:
+
+#### Layer 1: All Members
+
+- Number of members: Varies
+- Average number of decisions made per month: Varies based on proposals from members.
+
+#### Layer 2: Steering Committees
+
+- Number of committees: 5
+- Number of members per committee: 5
+- Average number of decisions made per month: Varies based on proposals from Layer 1.
+
+#### Layer 3: Senior DAO Layer
+
+- Number of members: Varies
+- Average number of decisions made per month: Varies, focusing on high-level strategy and big picture ideas.
+
+- Governance: Layer 1 members propose ideas and initiatives to the Steering Committees in Layer 2. The committees review and discuss these proposals and make decisions based on consensus or voting. The Senior DAO Layer in Layer 3 has the power to veto decisions made by the Steering Committees if it deems necessary for the overall strategy and direction of the DAO.
+
+### Financial Layer:
+
+- Decentralization Actions (DAs): Varies based on committee and Senior DAO layer decisions.
+- Autonomous Actions (AAs): Varies based on committee and Senior DAO layer decisions.
+- Profit sharing to members: Distributed among the members based on their contributions and stake in the DAO.
+- Financial: The committees and the Senior DAO layer collectively manage the financial resources of the DAO, including profit distribution, investment decisions, and funding allocations.
+
+### Security Layer:
+
+- Continuously audited by (to be determined): The DAO's security measures and protocols are audited regularly by an independent security firm or auditing entity to ensure the integrity and robustness of the system.
